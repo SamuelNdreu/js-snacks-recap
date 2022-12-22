@@ -1,5 +1,6 @@
-/**
-Creare due div; uno conterrà numeri dispari di colore rosso e l'altro conterrà numeri pari in verde.
- Ad ogni click di un bottone chiedere all'API un numero, se è dispari metterlo nel blocco dispari, e se è pari in quello pari.
+/***
+Chiedere all'API 10 nomi da inserire in un array di invitati.
+ Una volta generata la lista chiedere all'utente di dire il proprio nome.
+ Se è uno degli invitati ritornare un messaggio di benvenuto, altrimenti di accesso negato.
 */
 
